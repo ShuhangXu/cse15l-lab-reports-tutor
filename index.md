@@ -52,4 +52,4 @@ Start from here,  I will make changes with VSCode:
 print 'This is the best day of my life!'
 ```
 
-![This is a local image](C:\Users\xushu\Desktop\cse15l-lab-reports-tutor\1.png)
+![This is a local image](1.png)
