@@ -29,7 +29,7 @@ Let's start from some markdown examples, please ensure that text is between each
 3. Love15L * 4
 n. Love15L * 2^n
 
-Today is so hot! But I can enjoy the AC in CSE building:
+Today is so hot! But I can enjoy the AC in CSE building all the time:
 ---
 
 `I love CSE`
