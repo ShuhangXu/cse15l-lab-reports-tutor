@@ -34,7 +34,7 @@ Today is so hot! But I can enjoy the AC in CSE building:
 
 `I love CSE`
 
-`I am not the quote mark. 1 and ! are my neighbor.`
+`Hi, I am `. I am not the single quote mark'. 1 and ! are my friendly neighbor.`
 
 ```
 print 'I want to go Lake Tahoe!'
