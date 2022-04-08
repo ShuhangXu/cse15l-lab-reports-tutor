@@ -1,5 +1,18 @@
 Hi, my name is Shuhang and I will be your CSE15L tutor!
 In this lab, I will show you how to use github to create your personal website.
 
-Let's start from some markdown examples
+Let's start from some markdown examples, please ensure that text is between each symbol
+
 *Hey, this is italic*
+
+**I am bold bold bold**
+
+# This is heading 1, do you like how I look like?
+
+## This is heading 2, I am the sibling of heading 2. Can you find the difference?
+
+[Welcome to follow my linkedin, glad to build connections with all of you](https://www.linkedin.com/in/shuhang-xu-1805821a5/)
+
+![I love Snoopy. There is a museum in Santa Rosa. Do you know the story behind it?](https://lh5.googleusercontent.com/3lWkYbLl4kuebSMTuLjW2VU_g_-DgDijp98rmEQgtc9s5rrqnQmkVTq0XSZlXugSbrSLz4FiDVUiPFHd_rmhHEkvVniV8kXyS-Pl2S28NHkJQ75Fywq66tGOVEJeNXQq4Q=w1280)
+
+
