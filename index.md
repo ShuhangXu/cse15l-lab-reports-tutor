@@ -22,7 +22,7 @@ Let's start from some markdown examples, please ensure that text is between each
 > Let's list our hobbies here!
 * Hiking! If it is possible, I want to hike everyday! ʕ•́ᴥ•̀ʔっ♡
 * Watching the Apple product launch day. What will Iphone 14 look like ᕙ(^▿^-ᕙ)
-* Being your tutors! 
+* Being your tutors! Enjoy talking with all of you. (>‿◠)✌
 
 1. Love15L
 2. Love15L * 2
