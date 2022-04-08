@@ -42,6 +42,6 @@ Today is so hot! But I can enjoy the AC in CSE building:
 print 'I want to go Lake Tahoe!'
 print 'I want to go Big Bear Lake!'
 print 'I want to see the polar lights at Alaska!'
-print 'I want all my tutees succeed in this class' 
+print 'I hope all my tutees can succeed in this class' 
 ```
 
