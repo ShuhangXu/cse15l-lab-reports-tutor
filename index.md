@@ -32,12 +32,11 @@ n. Love15L * 2^n
 Today is so hot! But I can enjoy the AC in CSE building:
 ---
 
-'I love CSE' with backticks
+`I love CSE` check the backticks
 
-'''
-# code block
+```
 print 'I want to go Lake Tahoe!'
 print 'I want to go Big Bear Lake!'
 print 'I want to see the polar lights at Alaska!'
-
+```
 
