@@ -32,7 +32,8 @@ n. Love15L * 2^n
 Today is so hot! But I can enjoy the AC in CSE building:
 ---
 
-`I love CSE` check the backticks
+`I love CSE`
+
 `I am not the quote mark. 1 and ! are my neighbor.`
 
 ```
