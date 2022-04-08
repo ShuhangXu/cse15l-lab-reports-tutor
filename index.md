@@ -15,4 +15,29 @@ Let's start from some markdown examples, please ensure that text is between each
 
 ![I love Snoopy. There is a museum in Santa Rosa. Do you know the story behind it?](https://lh5.googleusercontent.com/3lWkYbLl4kuebSMTuLjW2VU_g_-DgDijp98rmEQgtc9s5rrqnQmkVTq0XSZlXugSbrSLz4FiDVUiPFHd_rmhHEkvVniV8kXyS-Pl2S28NHkJQ75Fywq66tGOVEJeNXQq4Q=w1280)
 
+> Wow, what's blockquote used for?
+> First time to use that, super excited!
+
+
+> Let's list our hobbies here!
+* Hiking! If it is possible, I want to hike everyday! ʕ•́ᴥ•̀ʔっ♡
+* Watching the Apple product launch day. What will Iphone 14 look like ᕙ(^▿^-ᕙ)
+* Being your tutors! 
+
+1. Love15L
+2. Love15L * 2
+3. Love15L * 4
+n. Love15L * 2^n
+
+Today is so hot! But I can enjoy the AC in CSE building:
+---
+
+'I love CSE' with backticks
+
+'''
+# code block
+print 'I want to go Lake Tahoe!'
+print 'I want to go Big Bear Lake!'
+print 'I want to see the polar lights at Alaska!'
+
 
