@@ -45,3 +45,10 @@ print 'I want to see the polar lights at Alaska!'
 print 'I hope all my tutees can succeed in this class' 
 ```
 
+Start from here,  I will make changes with VSCode:
+---
+
+```
+print 'This is the best day of my life!'
+```
+
